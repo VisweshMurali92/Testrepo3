@@ -1,0 +1,2 @@
+Newfile on Child Branch
+Testing of adding new branch and new file in that branch using GitBash
